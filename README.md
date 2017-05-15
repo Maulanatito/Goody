@@ -28,5 +28,5 @@ Screenshot :<br><br>
 ![popular](https://cloud.githubusercontent.com/assets/21335132/26045053/69f86e72-3972-11e7-9807-7df666cce7c6.png)<br><br>
 3. Coming Soon Movies<br>
 ![soon](https://cloud.githubusercontent.com/assets/21335132/26045052/69e766c2-3972-11e7-9bd1-11095fe253b3.png)<br><br>
-Now Playing Movies<br>
+4. Now Playing Movies<br>
 ![now](https://cloud.githubusercontent.com/assets/21335132/26045051/69d25de0-3972-11e7-8de7-e028b7dfedf9.png)
