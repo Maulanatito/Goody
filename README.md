@@ -7,11 +7,17 @@ NIS : 4843/1562.070<br>
 Angkatan : 24 <br>
 SMK Telkom Malang <br><br>
 
+Link APK : <br>
+https://drive.google.com/a/smktelkom-mlg.sch.id/file/d/0B1M6qgw-1__dSUxKVzEtZkhaSkE/view?usp=sharing<br><br>
+
 Alamat API yang digunakan pada Aplikasi:<br>
 https://www.themoviedb.org/documentation/api<br><br>
 
 Jenis Navigasi yang digunakan pada Aplikasi:<br>
 Action Bar Spinner<br><br>
+
+Library dari Local Database yang digunakan : <br>
+SQLite Dasar <br><br>
 
 Library yang digunakan pada Aplikasi:<br>
 Volley, Glide, SQLite<br><br>
